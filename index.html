@@ -14,12 +14,21 @@
     <!-- Nav Bar styling: Light background, responsive on smaller devices -->
     <nav class="navbar navbar-light bg-light navbar-expand-sm">
         <a href="/" class="navbar-brand">Whiskey Drop</a>
-        <ul class="navbar-nav mr-auto">
-            <li class="active nav-item mr-2"><a class="nav-link" href="/">Home</a></li>
-            <li class="nav-item mr-2"><a class="nav-link" href="/about">About</a></li>
-            <!-- Moves Nav Bar marketing text to a nav menu item on small devices only -->
-            <li class="nav-item mr-2 d-block d-sm-none"><a class="nav-link" href="/login">Sign In / Sign Up</a></li>
-        </ul>
+
+        <!-- Add in a new button to compress the nav-bar menu to a button on mobile devices to save screen real-estate -->
+        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- collapsable navbar elements-->
+        <div class="collapse navbar-collapse" id="navbarNavDropdawn">
+            <ul class="navbar-nav mr-auto">
+                <li class="active nav-item mr-2"><a class="nav-link" href="/">Home</a></li>
+                <li class="nav-item mr-2"><a class="nav-link" href="/about">About</a></li>
+                <!-- Moves Nav Bar marketing text to a nav menu item on small devices only -->
+                <li class="nav-item mr-2 d-block d-sm-none"><a class="nav-link" href="/login">Sign In / Sign Up</a></li>
+            </ul>
+        </div>
         <!-- Nav Bar marketing text not responsive enough - hidden at smaller screen resolutions -->
         <div class="d-none d-md-block">
             <p class="navbar-text my-auto mr-2"><i>Great whiskey delivered to your door!</i></p>
