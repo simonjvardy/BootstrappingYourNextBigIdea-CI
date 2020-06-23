@@ -83,3 +83,11 @@ body {
     background-color: #f05f40;
     border-color: #f05f40;
 }
+
+.btn--red:hover,
+.btn--red:active,
+.btn--red:focus,
+.btn--red:active:focus {
+    background-color: #df4929;
+    border-color: #df4929; 
+}
