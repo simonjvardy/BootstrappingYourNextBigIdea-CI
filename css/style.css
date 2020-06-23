@@ -2,18 +2,35 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.alert-container {}
+.alert-container .col-12 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.site-wide-alert {
+    color: #544600;
+    background-color: #eec802;
+    border-color: #eec802;
+    padding: 5px 15px;
+    margin-bottom: 0;
+    border: 1px solid transparent;
+    border-radius: 0;
+}
+
 
 .callout-container {
     height: 100vh;
-    background: url("../images/whiskey-background.jpg") no-repeat bottom right fixed; 
+
+    background: url('../images/whiskey-background.jpg') no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    
     display: flex;
     align-items: center;
     justify-content: center;
+
     position: relative;
 }
 
@@ -23,45 +40,56 @@ body {
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
-.quotes-container {}
+/* Navbar */
 
-.features-container {}
+.navalert-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    padding-left: 0;
+    padding-right: 0;
+}
 
-/*Block Dividers*/
-
-.block-divider {
-    width: 75px;
-    height: 5px;
+.navbar {
+    margin-bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .25);
     border: 0;
 }
 
-.block-divider--orange {
-        background-color: #f05f40;
+.navbar .navbar-toggler {
+    border: 0;
 }
 
-.block-divider--short {
-    width: 35px;
+.navbar .navbar-brand {
+    font-weight: bold;
 }
 
-/*Jumbotron*/
+.navbar .navbar-nav a {
+    font-weight: bold;
+}
 
-/* override default bootstrap jumotron class with additional styling */
+
+/* Jumbotron */
+
 .jumbotron {
     background-color: transparent;
 }
 
-.jumbotron-header {
+.jumbotron h1 {
     color: white;
     font-weight: bold;
     margin-bottom: 30px;
+    color: white;
 }
 
 .jumbotron .lead {
-    margin: 25px 0;
     color: #a7a7a7;
+    margin: 25px 0;
 }
 
 .jumbotron small {
@@ -70,7 +98,24 @@ body {
     color: #d0d0d0;
 }
 
-/*Buttons*/
+/* Block dividers */
+
+.block-divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    background-color: #444;
+}
+
+.block-divider--orange {
+    background-color: #f05f40;
+}
+
+.block-divider--short {
+    width: 35px;
+}
+
+/* Buttons */
 
 .btn--cta {
     font-weight: bold;
@@ -89,5 +134,6 @@ body {
 .btn--red:focus,
 .btn--red:active:focus {
     background-color: #df4929;
-    border-color: #df4929; 
+    border-color: #df4929;
+    color: white;
 }
