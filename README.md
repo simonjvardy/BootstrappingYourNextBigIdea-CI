@@ -94,11 +94,12 @@ We have chosen [Josefin](https://fonts.google.com/specimen/Josefin+Sans?query=jo
 ### Colours ###
 
 We have chosen the colour that say ... appealing to the eye and also compliments the design of the project.
-![Colour palette](wireframes/Palette.png)
+![Colour palette](wireframes/Whiskey-Drop-Palette.png)
 
-- *Grullo* (AF9483) - Light soft brown
-- *Umber* (615550) - Dark brown
-- *Alabaster* (F0EDE5) - Off white
+- *Onyx* (444444) - Dark Grey
+- *Yellow Munsell* (EEC802) - Yellow
+- *Orange Soda* (F05F40) - Orange
+- *Cinnabar* (DF4929) - Dark Orange
 
 These colours will compliment each other well when used across the site creating pleasant ambience.
 
