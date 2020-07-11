@@ -181,7 +181,7 @@ The website was developed using both *Gitpod* and *Visual Studio Code* and using
 
 Cloning CI-Whiskey-Drop-Project from GitHub:
 
-- Navigate to **simonjvardy/[repo name here]**.
+- Navigate to **simonjvardy/CI-Whiskey-Drop-Project**.
 - Click the green **Code** button.
 - **Copy** the url in the dropdown box.
 - Using your favourite **IDE** open up your preferred terminal.
@@ -197,10 +197,7 @@ Copy the following code and input it into your terminal to clone CI-Whiskey-Drop
 
 ### Images ###
 
-You can find the images used for the site [here](assets/img). We have sourced them through various websites, which are free to use:
-
-- [Pikrepo](https://www.pikrepo.com/)
-- [Unsplash](https://unsplash.com/)
+You can find the images used for the site [here](assets/img). We have sourced them through the Code Institute course material:
 
 ### Colour ###
 
@@ -214,10 +211,6 @@ We have identified the colour palette on [W3](https://www.w3schools.com/)
 ### Acknowledgements ###
 
 - [W3Schools](https://www.w3schools.com/) for just being a constant source of help and inspiration!
-- [Bootstrap Carousel with Controls](https://getbootstrap.com/docs/4.5/components/carousel/) code.
-- [Bootstrap Borderless Table](https://getbootstrap.com/docs/4.5/content/tables/) code.
-- [Stack overflow](https://stackoverflow.com/questions/14977392/bootstrap-carousel-remove-auto-slide) for help with removing the carousel auto-slide in Bootstrap.
-- [San Francisco State Univerity](https://its.sfsu.edu/projects/resources) PMO Resources webpage where the original UAT Training Plan document was sourced
-- [usersnap.com blog](https://usersnap.com/blog/user-acceptance-testing-example/) which was the inspiration for the modified UAT Testing document and wording.
+- [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma/) Course material for the code-along challenge.
 - [Neringa Bickmore](https://github.com/neringabickmore) for her guidance and advice on the README.md and testing.mddocument content and layout.
 ---
