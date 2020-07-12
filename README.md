@@ -1,5 +1,7 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
+# ![Logo](wireframes/amiresponsive-whiskey-drop.png) #
+
 ***Whiskey Drop** is a mock landing page for an imaginary product to experiment with Boostrap's core features and to use CSS styling to enhance the look of the Boostrap functionality.
 This is part of Module 5 - User Centric Front End for the Full Stack Software Developer Diploma.*
 
