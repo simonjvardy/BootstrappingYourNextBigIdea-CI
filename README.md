@@ -43,9 +43,9 @@ The **goal** of this project is to build a website which experiments with Boostr
 
 ## User Goals ##
 
-- **Book** a table in the coffee shop for a specific time.
-- **Order** a coffee **online** for collection.
-- **Link** to the coffee shop social media sites.
+- **Sign up** for more information about the range of whiskeys on offer.
+- **Read** testimonials from previous customers
+- **Read** featured articles about related subjects.
 
 ## User Stories ##
 
