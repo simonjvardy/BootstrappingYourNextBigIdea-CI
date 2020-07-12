@@ -1,6 +1,7 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-***Project** description paragraph goes here.*
+***Whiskey Drop** is a mock landing page for an imaginary product to experiment with Boostrap's core features and to use CSS styling to enhance the look of the Boostrap functionality.
+This is part of Module 5 - User Centric Front End for the Full Stack Software Developer Diploma.*
 
 ## Contents ##
 
@@ -37,17 +38,8 @@
 
 ## Project Goals ##
 
-The **goal** of this project is to build a website which ...
+The **goal** of this project is to build a website which experiments with Boostrap's core features and to use CSS styling to enhance the look of the Boostrap functionality
 
-The features on the website will:
-
-- Give customers more ways to interact with the shop (online bookings, social media, phone,  email)
-- Enable the business to better manager the flow of customers through their premises and ensure safe conditions for all.
-
-We achieve this by:
-
-- Providing an option to the customers to make their **to-go** orders online
-- Providing an option to the customers to **book a table** to prevent instances where the cafe it at full capacity and social distancing is not maintained.
 
 ## User Goals ##
 
@@ -57,43 +49,44 @@ We achieve this by:
 
 ## User Stories ##
 
-- As a **user**, I want to ...
-- As a **user**, I want to ...
-- As a **user**, I can ...
-- As a **user**, I can ...
+- As a **user**, I can see a responsive **navbar** with  Home, About and a dropdow menu of different whiskey types on offer.
+- As a **user**, I can see a **call-out section** with a call to action (cta) containing a marketing offer and a sign sign up butto.
+- As a **user**, I can see a **quotes section** containing images and quotes for happy customers.
+- As a **user**, I can see a **features section** containing featured articles with the option of a readme button to see more of each article.
 
 ## Site Owner Goals ##
 
-- As a **site owner**, I want to create ...
-- As a **site owner**, I want the user to be able to ..
-- As a **site owner**, I want my users to be able to ...
+- As a **site owner**, I want to create visually engaging webpage that inspires customers to explore the whiskeys on offer
+- As a **site owner**, I want the user to be able to sign up for marketing emails.
+- As a **site owner**, I want my users to be able to see customer testimonials.
+- As a **site owner**, I want my users to be able to see featured articles and additional content.
 
 ## User Requirements and Expectations ##
 
-- **Header**, **Main body** divided into section and **Footer**
+- **Header**, **Main body** divided into three sections
 - In the **Header** we should see a **Logo** and a **navigation bar** on the left side with option to go to:
   - **Home section** (top of the site)
-  - ...
-  - ...
-  - **Contact us** section
-- On the right side of the **Header** you should see additional ...
+  - **About section** (link not working yet)
+  - **Whiskey's section** dropdown menu containing different types of whiskeys available.
+
+- On the right side of the **Header** you should see additional call to action with a slogan and a sign in / sign up button.
 
 - In the **Main body** we should see:
-  - **Welcome** section with a welcome message
-  - ...
-  - ...
-  - **Contact us** section displaying google maps with the coffee shop location
-- In the **Footer** You should see self-explanatory icons allowing the user to connect them with the shop's social media channels.
+  - **Callout** section with a heaing, call to action and a sign up button
+  - **Quotes** section with a header and testimonials from previous customers.
+  - **Features** section with a header and features arranged in a card format.
+  
+
   
 ## Design Choices ##
 
 ### Fonts ###
 
-We have chosen [Josefin](https://fonts.google.com/specimen/Josefin+Sans?query=jose#standard-styles) for all of the headers and [Raleway](https://fonts.google.com/specimen/Raleway?query=ralew#standard-styles) the rest of the text.  We have used a [Caveat](https://fonts.google.com/specimen/Caveat?query=caveat) font for the logo and headlines throughout the site.
+We have chosen [Roboto](https://fonts.google.com/specimen/Roboto) from Google fonts for the entire site.
 
 ### Colours ###
 
-We have chosen the colour that say ... appealing to the eye and also compliments the design of the project.
+We have chosen the colour that enhance and contrast the dark coloured Bootstrap theme that are appealing to the eye and also compliments the design of the project.
 ![Colour palette](wireframes/Whiskey-Drop-Palette.png)
 
 - *Onyx* (444444) - Dark Grey
