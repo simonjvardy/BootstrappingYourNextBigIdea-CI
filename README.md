@@ -108,14 +108,11 @@ We designed our site mock-ups using [balsamiq wireframes](https://balsamiq.com/)
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Libraries ###
 
-- [jQuery](https://jquery.com/)
-- [Popper](https://popper.js.org/)
 - [Bootstrap](https://getbootstrap.com/)
-- [Hover CSS](https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css)
+
   
 ### Tools ###
 
@@ -126,9 +123,6 @@ We designed our site mock-ups using [balsamiq wireframes](https://balsamiq.com/)
 - [Google fonts](https://fonts.google.com/)
 - [Colour editor](https://coolors.co/)
 - [Image editor](https://www.birme.net/)
-- [Favicons](https://favicon.io/)
-- [Google maps API](https://cloud.google.com/maps-platform/)
-
 ---
 
 ## Features ##
@@ -191,11 +185,7 @@ Copy the following code and input it into your terminal to clone CI-Whiskey-Drop
 
 ### Images ###
 
-You can find the images used for the site [here](assets/img). We have sourced them through the Code Institute course material:
-
-### Colour ###
-
-We have identified the colour palette on [W3](https://www.w3schools.com/)
+You can find the images used for the site [here](assets/images). We have sourced them through the Code Institute course material:
 
 ### Image editing ###
 
